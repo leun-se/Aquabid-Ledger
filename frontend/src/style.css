@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  overflow: hidden; /* Hides any accidental scrollbars */
+  background-color: #000; /* Sets a dark background just in case the canvas fails */
+}
+
+canvas {
+  display: block; /* Prevents a weird gap at the bottom of the screen */
+}
