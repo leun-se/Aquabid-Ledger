@@ -1,0 +1,2098 @@
+[
+    {
+        "id": 0,
+        "category": "Breeding Supplies",
+        "title": "Shrimp starter package must have",
+        "price": "25.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 1,
+        "category": "Breeding Supplies",
+        "title": "Jumbo feeding dish for shrimp or plecos",
+        "price": "8.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 2,
+        "category": "Aquarium Filteration",
+        "title": "Dual sponge filter",
+        "price": "9.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 3,
+        "category": "Aquarium Flake Food",
+        "title": "organic food for black worm.",
+        "price": "17.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 4,
+        "category": "Live Aquarium Food",
+        "title": "Live blackworm not from refridge but aquarium",
+        "price": "8.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 5,
+        "category": "Live Aquarium Food",
+        "title": "30+ Pond/Bladder Snails",
+        "price": "10.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 6,
+        "category": "Live Aquarium Food",
+        "title": "Grindal worm starter",
+        "price": "21.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 7,
+        "category": "Aquarium Fish",
+        "title": "Clown Knifefish",
+        "price": "10.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 8,
+        "category": "Aquarium Fish",
+        "title": "1 Trio of Miyuki (A Grade) Medaka Ricefish",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 9,
+        "category": "Aquarium Fish",
+        "title": "Red head tapajos",
+        "price": "32.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 10,
+        "category": "Angelfish",
+        "title": "6 Sunset Angelfish Juveniles",
+        "price": "40.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 11,
+        "category": "Angelfish",
+        "title": "PANDA ANGELFISH *PACKAGES*",
+        "price": "54.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 12,
+        "category": "Angelfish",
+        "title": "Black Angelfish *PACKAGES*",
+        "price": "54.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 13,
+        "category": "Angelfish",
+        "title": "4-5\" Black Angelfish",
+        "price": "39.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 14,
+        "category": "Apistogramma (Dwarf Cichlids)",
+        "title": "Black Knight Ram Pairs",
+        "price": "65.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 15,
+        "category": "Apistogramma (Dwarf Cichlids)",
+        "title": "Ivanacara Bimaculata",
+        "price": "16.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 16,
+        "category": "Wild Type Betta",
+        "title": "Wildbetta smaragdina guitar green male",
+        "price": "125.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 17,
+        "category": "Crowntail Betta",
+        "title": "Female Crowntail Green Mustardgas (FmCTGM1)",
+        "price": "10.00",
+        "seconds_remaining": 4920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 18,
+        "category": "Crowntail Betta",
+        "title": "Female Crowntail Nemo Copper (FmCTNC1)",
+        "price": "10.00",
+        "seconds_remaining": 4920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 19,
+        "category": "Crowntail Betta",
+        "title": "Female Green Crowntail (FmCTG1)",
+        "price": "8.00",
+        "seconds_remaining": 4920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 20,
+        "category": "Crowntail Betta",
+        "title": "Female Green Fancy Crowntail (FmCTGF1)",
+        "price": "8.00",
+        "seconds_remaining": 4920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 21,
+        "category": "Crowntail Betta",
+        "title": "Purple Fancy Crowntail (CTPF1)",
+        "price": "8.00",
+        "seconds_remaining": 6720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 22,
+        "category": "Crowntail Betta",
+        "title": "Blue Fancy Crowntail (CTBF1)",
+        "price": "8.00",
+        "seconds_remaining": 76920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 23,
+        "category": "Crowntail Betta",
+        "title": "Brown Copper Crowntail Plakat (CTPKBC1)",
+        "price": "8.00",
+        "seconds_remaining": 76920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 24,
+        "category": "Crowntail Betta",
+        "title": "M31 Male Fancy Red Blue CT Premium",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 25,
+        "category": "Double Tail Betta",
+        "title": "Avatar Gordon Doubletail Plakat (DTPKAG1)",
+        "price": "8.00",
+        "seconds_remaining": 72720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 26,
+        "category": "Halfmoon Betta",
+        "title": "Female Halfmoon Black Nemo Copper (FmHMBNC1)",
+        "price": "8.00",
+        "seconds_remaining": 4920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 27,
+        "category": "Halfmoon Betta",
+        "title": "Halfmoon White Platinum (HMWP1)",
+        "price": "8.00",
+        "seconds_remaining": 6720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 28,
+        "category": "Halfmoon Betta",
+        "title": "Female Super Red (FmHMSR1)",
+        "price": "8.00",
+        "seconds_remaining": 8520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 29,
+        "category": "Halfmoon Betta",
+        "title": "Female Super Orange (FmHMSO1)",
+        "price": "10.00",
+        "seconds_remaining": 8520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 30,
+        "category": "Halfmoon Betta",
+        "title": "Female Halfmoon Galaxy Koi (FmHMGK1)",
+        "price": "10.00",
+        "seconds_remaining": 12120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 31,
+        "category": "Halfmoon Betta",
+        "title": "Female Halfmoon Galaxy Koi (FmHMGK2)",
+        "price": "8.00",
+        "seconds_remaining": 70320,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 32,
+        "category": "Halfmoon Betta",
+        "title": "Female Halfmoon Galaxy Koi (FmHMGK3)",
+        "price": "8.00",
+        "seconds_remaining": 70320,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 33,
+        "category": "Halfmoon Betta",
+        "title": "Male Dumbo White Platinum HM Premium Thailand",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 34,
+        "category": "Halfmoon Betta",
+        "title": "Male Black Mustard Black Rim Rose Tail HM PM Thai",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 35,
+        "category": "Halfmoon Betta",
+        "title": "Male Copper Red Tail Black Rim HM Premium Thailand",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 36,
+        "category": "Halfmoon Betta",
+        "title": "Male Blue Butterfly Red Rose Tail HM Premium Thai",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 37,
+        "category": "Halfmoon Betta",
+        "title": "Male Yellow Dragon Rose Tail HM Premium Thailand",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 38,
+        "category": "Halfmoon Betta",
+        "title": "Male Pink Butterfly Rose Tail HM Premium Thailand",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 39,
+        "category": "Halfmoon Betta",
+        "title": "M28 Male Fancy Red Salamander HM Premium",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 40,
+        "category": "Halfmoon Betta",
+        "title": "M32 Female Fancy Blue HM Premium Grade",
+        "price": "15.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 41,
+        "category": "Halfmoon Betta",
+        "title": "M29 Male Fancy Yellow HM Clear fins rare",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 42,
+        "category": "Halfmoon Betta",
+        "title": "M33 Female Fancy Red Orange HM Premium",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 43,
+        "category": "Halfmoon Betta",
+        "title": "M35 Female White Platinum HM for Breeding",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 44,
+        "category": "Halfmoon Betta",
+        "title": "M61 Male Fancy Red Blue HM",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 45,
+        "category": "Halfmoon Betta",
+        "title": "M62 Male Fancy Red Salamander HM",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 46,
+        "category": "Halfmoon Betta",
+        "title": "M64 Male Fancy Copper HM Butterfly rare",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 47,
+        "category": "Halfmoon Betta",
+        "title": "M66 Male Fancy Red Blue HM Premium",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 48,
+        "category": "Halfmoon Betta",
+        "title": "M63 Male Fancy Red HM",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 49,
+        "category": "Halfmoon Betta",
+        "title": "M65 Male Fancy Yellow Mustard HM Premium",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 50,
+        "category": "Halfmoon Betta",
+        "title": "M67 Male Fancy Copper HM Premium",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 51,
+        "category": "Halfmoon Betta",
+        "title": "M37 Female Fancy Yellow HM for Breeding",
+        "price": "15.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 52,
+        "category": "Halfmoon Betta",
+        "title": "M42 Male Fancy Red Blue HM Premium Grade",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 53,
+        "category": "Halfmoon Betta",
+        "title": "M44 Male Fancy Copper Yellow HM Premium",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 54,
+        "category": "Halfmoon Betta",
+        "title": "M48 Male Fancy Purple White Rims HM",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 55,
+        "category": "Halfmoon Plakat",
+        "title": "Black Brown Fancy (BBF1)",
+        "price": "5.00",
+        "seconds_remaining": 6120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 56,
+        "category": "Halfmoon Plakat",
+        "title": "Red Fancy Koi Metallic (RFKM2)",
+        "price": "5.00",
+        "seconds_remaining": 6120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 57,
+        "category": "Halfmoon Plakat",
+        "title": "Female White Scale Copper (FmWSC1)",
+        "price": "8.00",
+        "seconds_remaining": 6720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 58,
+        "category": "Halfmoon Plakat",
+        "title": "Female White Copper (FmWC2)",
+        "price": "5.00",
+        "seconds_remaining": 7920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 59,
+        "category": "Halfmoon Plakat",
+        "title": "Female Pure Copper (FmPC1)",
+        "price": "8.00",
+        "seconds_remaining": 8520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 60,
+        "category": "Halfmoon Plakat",
+        "title": "Female HMPK Big Ear White Fancy Green (FmBEWFG4)",
+        "price": "8.00",
+        "seconds_remaining": 8520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 61,
+        "category": "Halfmoon Plakat",
+        "title": "Female HMPK Big Ear White Fancy Blue (FmBEWFB2)",
+        "price": "5.00",
+        "seconds_remaining": 8520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 62,
+        "category": "Halfmoon Plakat",
+        "title": "Perfect Pair Sunkist Copper",
+        "price": "40.00",
+        "seconds_remaining": 10320,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 63,
+        "category": "Halfmoon Plakat",
+        "title": "Female Red Koi Copper (FmRKC4)",
+        "price": "8.00",
+        "seconds_remaining": 12120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 64,
+        "category": "Halfmoon Plakat",
+        "title": "Female Nemo Koi Copper (FmNKC1)",
+        "price": "10.00",
+        "seconds_remaining": 12120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 65,
+        "category": "Halfmoon Plakat",
+        "title": "Female Nemo Koi Copper (FmNKC2)",
+        "price": "10.00",
+        "seconds_remaining": 12120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 66,
+        "category": "Halfmoon Plakat",
+        "title": "Female Red Koi Copper IRONMAN (FmRKC4)",
+        "price": "10.00",
+        "seconds_remaining": 12120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 67,
+        "category": "Halfmoon Plakat",
+        "title": "Female Red Koi Copper IRONMAN (FmRKC5)",
+        "price": "10.00",
+        "seconds_remaining": 12120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 68,
+        "category": "Halfmoon Plakat",
+        "title": "Perfect Pair Yellow Head",
+        "price": "40.00",
+        "seconds_remaining": 31920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 69,
+        "category": "Halfmoon Plakat",
+        "title": "Blue Avatar (BA3)",
+        "price": "8.00",
+        "seconds_remaining": 69120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 70,
+        "category": "Halfmoon Plakat",
+        "title": "Young Nemo Fancy Koi (YNFK1)",
+        "price": "5.00",
+        "seconds_remaining": 69120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 71,
+        "category": "Halfmoon Plakat",
+        "title": "Fancy Hellboy (YHB18)",
+        "price": "8.00",
+        "seconds_remaining": 69120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 72,
+        "category": "Halfmoon Plakat",
+        "title": "Fancy Hellboy (YHB19)",
+        "price": "8.00",
+        "seconds_remaining": 70320,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 73,
+        "category": "Halfmoon Plakat",
+        "title": "Avatar Series (A2)",
+        "price": "8.00",
+        "seconds_remaining": 75720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 74,
+        "category": "Halfmoon Plakat",
+        "title": "Avatar Series (A3)",
+        "price": "8.00",
+        "seconds_remaining": 75720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 75,
+        "category": "Halfmoon Plakat",
+        "title": "Avatar Series (A4)",
+        "price": "8.00",
+        "seconds_remaining": 75720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 76,
+        "category": "Halfmoon Plakat",
+        "title": "Avatar Series (A5)",
+        "price": "10.00",
+        "seconds_remaining": 75720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 77,
+        "category": "Halfmoon Plakat",
+        "title": "Avatar Series (A6)",
+        "price": "5.00",
+        "seconds_remaining": 76920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 78,
+        "category": "Halfmoon Plakat",
+        "title": "Avatar Series (A8)",
+        "price": "8.00",
+        "seconds_remaining": 76920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 79,
+        "category": "Halfmoon Plakat",
+        "title": "Avatar Series (A9)",
+        "price": "8.00",
+        "seconds_remaining": 76920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 80,
+        "category": "Halfmoon Plakat",
+        "title": "Black Koi Copper (BKC2)",
+        "price": "5.00",
+        "seconds_remaining": 76920,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 81,
+        "category": "Halfmoon Plakat",
+        "title": "Male Giant Galaxy Orange Fancy Fire HMPK PM TH-7cm",
+        "price": "45.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 82,
+        "category": "Halfmoon Plakat",
+        "title": "Gold Tail Dragon Male",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 83,
+        "category": "Halfmoon Plakat",
+        "title": "Green & Red Male",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 84,
+        "category": "Catfish",
+        "title": "Dwarf Anchor Catfish",
+        "price": "5.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 85,
+        "category": "Corydoras Catfish",
+        "title": "5 Albino Cory catfish",
+        "price": "15.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 86,
+        "category": "Corydoras Catfish",
+        "title": "Green Laser Corydoras CW009",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 87,
+        "category": "Corydoras Catfish",
+        "title": "Panda Cory - Corydoras panda",
+        "price": "8.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 88,
+        "category": "Corydoras Catfish",
+        "title": "10 Panda Cories",
+        "price": "59.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 89,
+        "category": "Corydoras Catfish",
+        "title": "10 Green Cory Catfish",
+        "price": "29.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 90,
+        "category": "Corydoras Catfish",
+        "title": "6 Albino Corydoradinae",
+        "price": "19.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 91,
+        "category": "Corydoras Catfish",
+        "title": "20 Green Cory Catfish",
+        "price": "59.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 92,
+        "category": "Loaches",
+        "title": "Gold Dojo Loach",
+        "price": "3.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 93,
+        "category": "Plecostomus",
+        "title": "Snowball Pleco",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 94,
+        "category": "Plecostomus",
+        "title": "Young breeding group of L333 gold AA (1M3F)",
+        "price": "1200.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 95,
+        "category": "Plecostomus",
+        "title": "(10) L397 Alenquer tiger plecos.",
+        "price": "295.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 96,
+        "category": "Plecostomus",
+        "title": "Pseudacanthicus serratus - Suriname cactus pleco",
+        "price": "500.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 97,
+        "category": "Plecostomus",
+        "title": "Hypostomus luteus - Phase 2",
+        "price": "550.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 98,
+        "category": "Plecostomus",
+        "title": "L333 Albino Tiger King Pleco",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 99,
+        "category": "Plecostomus",
+        "title": "Bristlenose pleco Normal and Albino",
+        "price": "8.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 100,
+        "category": "Characins",
+        "title": "Fire Ant Tetra Hyphessobrycon myrmex",
+        "price": "15.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 101,
+        "category": "Central America Cichlids",
+        "title": "Electric Blue Acara",
+        "price": "25.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 102,
+        "category": "Central America Cichlids",
+        "title": "Jaguar Cichlid",
+        "price": "14.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 103,
+        "category": "Central America Cichlids",
+        "title": "Electric Blue Texas Cichlid",
+        "price": "19.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 104,
+        "category": "South American Cichlids",
+        "title": "Red Smooth Oscar",
+        "price": "49.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 105,
+        "category": "South American Cichlids",
+        "title": "Albino Oscar",
+        "price": "39.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 106,
+        "category": "South American Cichlids",
+        "title": "Green Terror",
+        "price": "24.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 107,
+        "category": "South American Cichlids",
+        "title": "Green Terror *5 PACK*",
+        "price": "109.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 108,
+        "category": "South American Cichlids",
+        "title": "Electric Blue Acara",
+        "price": "12.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 109,
+        "category": "South American Cichlids",
+        "title": "Chocolate Cichlids",
+        "price": "49.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 110,
+        "category": "South American Cichlids",
+        "title": "Red Shoulder Rotkeil Severum",
+        "price": "24.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 111,
+        "category": "South American Cichlids",
+        "title": "Assorted Angelfish",
+        "price": "89.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 112,
+        "category": "South American Cichlids",
+        "title": "Electric Blue Acara Cichlid",
+        "price": "9.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 113,
+        "category": "South American Cichlids",
+        "title": "Polar Blue and White Parrot Cichlid",
+        "price": "8.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 114,
+        "category": "South American Cichlids",
+        "title": "Geophagus Red Head Tapajs",
+        "price": "15.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 115,
+        "category": "Haplochromine Cichlids",
+        "title": "1.5-2.5\" Hawk (5 PACK)",
+        "price": "74.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 116,
+        "category": "Haplochromine Cichlids",
+        "title": "1.5-2.5\" Pheno Star Sapphire (5 PACK)",
+        "price": "54.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 117,
+        "category": "Haplochromine Cichlids",
+        "title": "1.5-2.5\" Jalo Reef (5 PACK)",
+        "price": "54.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 118,
+        "category": "Haplochromine Cichlids",
+        "title": "1-2\" Tangerine Tiger (5 PACK)",
+        "price": "34.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 119,
+        "category": "Haplochromine Cichlids",
+        "title": "1-2\" White Knight (5 PACK)",
+        "price": "54.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 120,
+        "category": "Haplochromine Cichlids",
+        "title": "1-2\" Snow White *5 PACK*",
+        "price": "64.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 121,
+        "category": "Haplochromine Cichlids",
+        "title": "1-2\" Malawi Trout *5 PACK*",
+        "price": "59.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 122,
+        "category": "Haplochromine Cichlids",
+        "title": "Red Fin Borleyi *5 Pack*",
+        "price": "39.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 123,
+        "category": "Haplochromine Cichlids",
+        "title": "Taiwan Reef *5 PACK*",
+        "price": "34.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 124,
+        "category": "Haplochromine Cichlids",
+        "title": "Nimbochromis venustus (Giraffe Cichlid) *5 PACK*",
+        "price": "34.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 125,
+        "category": "Haplochromine Cichlids",
+        "title": "Spilonotus Tanzania Insignus *5 PACK*",
+        "price": "44.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 126,
+        "category": "Peacock Cichlids",
+        "title": "1.5-2.5\" Chidunga (5 PACK)",
+        "price": "24.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 127,
+        "category": "Peacock Cichlids",
+        "title": "TURKIS PEACOCK *PACKAGES*",
+        "price": "44.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 128,
+        "category": "Tanganyika Cichlids",
+        "title": "9 Neolamprologus Multifasciatus 3/4''",
+        "price": "39.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 129,
+        "category": "Tanganyika Cichlids",
+        "title": "Alto. Black Calvus, 3.5\"",
+        "price": "45.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 130,
+        "category": "Tanganyika Cichlids",
+        "title": "Neolamprologus Daffodil Pulcher Brichardi 2.5''",
+        "price": "25.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 131,
+        "category": "Tanganyika Cichlids",
+        "title": "Sumbu Dwarf Compressiceps 3''",
+        "price": "25.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 132,
+        "category": "Flowerhorn",
+        "title": "5 pcs High quality super red texas 1.5 inch",
+        "price": "99.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 133,
+        "category": "Guppies",
+        "title": "Ivory snakskin pair",
+        "price": "13.00",
+        "seconds_remaining": 13980,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 134,
+        "category": "Guppies",
+        "title": "Phoenix pair",
+        "price": "13.00",
+        "seconds_remaining": 14040,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 135,
+        "category": "Guppies",
+        "title": "Galaxy koi ribbon pair",
+        "price": "20.00",
+        "seconds_remaining": 14100,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 136,
+        "category": "Guppies",
+        "title": "Blonde koi short body glassbelly pair",
+        "price": "20.00",
+        "seconds_remaining": 14220,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 137,
+        "category": "Guppies",
+        "title": "Marsupilamy swr pair",
+        "price": "20.00",
+        "seconds_remaining": 14280,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 138,
+        "category": "Guppies",
+        "title": "Hb blue delta tail pair",
+        "price": "20.00",
+        "seconds_remaining": 14400,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 139,
+        "category": "Guppies",
+        "title": "Magenta tiger swr pair",
+        "price": "30.00",
+        "seconds_remaining": 14520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 140,
+        "category": "Guppies",
+        "title": "Metal cobra gold pair",
+        "price": "20.00",
+        "seconds_remaining": 14580,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 141,
+        "category": "Guppies",
+        "title": "Metal yellow cobra round tail pair",
+        "price": "20.00",
+        "seconds_remaining": 14700,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 142,
+        "category": "Guppies",
+        "title": "Snake skin blie koi pair",
+        "price": "30.00",
+        "seconds_remaining": 14760,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 143,
+        "category": "Guppies",
+        "title": "Metal cobra pair",
+        "price": "13.00",
+        "seconds_remaining": 14880,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 144,
+        "category": "Guppies",
+        "title": "Yellow dragon pair",
+        "price": "13.00",
+        "seconds_remaining": 15000,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 145,
+        "category": "Guppies",
+        "title": "Albino cobra white tail pair",
+        "price": "13.00",
+        "seconds_remaining": 15120,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 146,
+        "category": "Guppies",
+        "title": "Blue moscow pair",
+        "price": "13.00",
+        "seconds_remaining": 15300,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 147,
+        "category": "Guppies",
+        "title": "Albino metal red dragon pair",
+        "price": "13.00",
+        "seconds_remaining": 60720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 148,
+        "category": "Guppies",
+        "title": "Snake skin black tail pair",
+        "price": "13.00",
+        "seconds_remaining": 60720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 149,
+        "category": "Guppies",
+        "title": "Silverado black tail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 150,
+        "category": "Guppies",
+        "title": "Metal snake skin yellow mosaik pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 151,
+        "category": "Guppies",
+        "title": "Mini panda ribbon pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 152,
+        "category": "Guppies",
+        "title": "Albino red koi ribbon pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 153,
+        "category": "Guppies",
+        "title": "Albino metal snake skin yellow lace rountail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 154,
+        "category": "Guppies",
+        "title": "Blue Tiger king cobra pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 155,
+        "category": "Guppies",
+        "title": "Gold ribbon rountail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 156,
+        "category": "Guppies",
+        "title": "Silverado red tail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 157,
+        "category": "Guppies",
+        "title": "Albino yellow cobra pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 158,
+        "category": "Guppies",
+        "title": "Yellow pingu ribbon pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 159,
+        "category": "Guppies",
+        "title": "Metal snake skin blue tail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 160,
+        "category": "Guppies",
+        "title": "Red Moscow ribbon pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 161,
+        "category": "Guppies",
+        "title": "Phoenix pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 162,
+        "category": "Guppies",
+        "title": "Albino full red big dorsal pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 163,
+        "category": "Guppies",
+        "title": "Albino platinum white snow ribbon pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 164,
+        "category": "Guppies",
+        "title": "Silverado Double swordtail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 165,
+        "category": "Guppies",
+        "title": "12x Snakeskin Fire Red Mosaic guppy pack",
+        "price": "55.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 166,
+        "category": "Guppies",
+        "title": "Wild Red Crowntail Guppy Pair",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 167,
+        "category": "Guppies",
+        "title": "New strain of guppy - Green Radial breeding trio",
+        "price": "1.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 168,
+        "category": "Guppies",
+        "title": "5M/5F Adult Mutations from new strain creations",
+        "price": "1.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 169,
+        "category": "Guppies",
+        "title": "Rare new strain guppy Albino SnowCrown Trio",
+        "price": "1.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 170,
+        "category": "Invertebrates",
+        "title": "(6+1) Blue Samurai caridina - USA - Sale price!",
+        "price": "48.00",
+        "seconds_remaining": 83520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 171,
+        "category": "Invertebrates",
+        "title": "(10+1) Racoon Tiger Shrimp - USA bred - juvies",
+        "price": "30.00",
+        "seconds_remaining": 83520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 172,
+        "category": "Invertebrates",
+        "title": "6+1 Orange Eye Royal Blue Tiger Tap water ok USA",
+        "price": "60.00",
+        "seconds_remaining": 83520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 173,
+        "category": "Invertebrates",
+        "title": "(6+1) Calceo Bee (Red Dragon) caridina - sale!",
+        "price": "48.00",
+        "seconds_remaining": 83520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 174,
+        "category": "Invertebrates",
+        "title": "(6+1) Crystal Black shrimp - higher mix grade USA",
+        "price": "42.00",
+        "seconds_remaining": 83520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 175,
+        "category": "Invertebrates",
+        "title": "(6+1) Extreme Blue Bolt juveniles - USA bred",
+        "price": "60.00",
+        "seconds_remaining": 83520,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 176,
+        "category": "Invertebrates",
+        "title": "10+1 Yellow King Kong shrimp - Sale price! - USA",
+        "price": "60.00",
+        "seconds_remaining": 84720,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 177,
+        "category": "Invertebrates",
+        "title": "20 + 4 SUPER RED cherry shrimp Free Ship",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 178,
+        "category": "Invertebrates",
+        "title": "20 + 4 SUPER RED cherry shrimp Free Ship",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 179,
+        "category": "Invertebrates",
+        "title": "20 Opae Ula (Halocaridina rubra) Free Ship",
+        "price": "45.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 180,
+        "category": "Invertebrates",
+        "title": "10 + extras Blue Rose Shrimp",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 181,
+        "category": "Invertebrates",
+        "title": "60 Black/Blue Diamond/Rose Shrimp Culls",
+        "price": "57.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 182,
+        "category": "Invertebrates",
+        "title": "20 + extras Carbon Rili shrimp",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 183,
+        "category": "Killifish",
+        "title": "Scriptaph. banforense Toussiana RBF 2014-03 Pair",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 184,
+        "category": "Killifish",
+        "title": "Cynopoecilus melanotaenia Cebollati Pair",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 185,
+        "category": "Killifish Eggs",
+        "title": "35+ eggs. F. GARDNERI P82",
+        "price": "25.00",
+        "seconds_remaining": 12840,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 186,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius rachovii 30+ Eggs",
+        "price": "18.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 187,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius rachovii 50+ Eggs",
+        "price": "24.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 188,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius cardinalis 30+ Eggs",
+        "price": "18.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 189,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius cardinalis 50+ Eggs",
+        "price": "24.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 190,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius eggersi Kubiti-Utete 07 30+ Eggs",
+        "price": "22.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 191,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius eggersi Kubiti-Utete 07 50+ Eggs",
+        "price": "28.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 192,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS EGGERSI RUFIJI RED 30+ Eggs",
+        "price": "14.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 193,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS EGGERSI RUFIJI RED 50+ Eggs",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 194,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS GUENTHERI (Red) ZANZIBAR 30+ Eggs",
+        "price": "14.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 195,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS FOERSCHI RUVU TZL49-01 50+ Eggs",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 196,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS PATRIZII MSUMALINI CREEK 30+ Eggs",
+        "price": "14.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 197,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS PATRIZII MSUMALINI CREEK 50+ Eggs",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 198,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS EGGERSI BLUE 30+ Eggs",
+        "price": "16.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 199,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS EGGERSI BLUE 50+ Eggs",
+        "price": "22.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 200,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS EGGERSI SOLID BLUE 30+ Eggs",
+        "price": "18.50",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 201,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS EGGERSI SOLID BLUE 50+ Eggs",
+        "price": "24.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 202,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS JUBBI 30+ Eggs",
+        "price": "28.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 203,
+        "category": "Killifish Eggs",
+        "title": "NOTHOBRANCHIUS JUBBI 50+ Eggs",
+        "price": "40.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 204,
+        "category": "Killifish Eggs",
+        "title": "Notho. eggersi Makurunge TAN 19-19 40eggs",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 205,
+        "category": "Killifish Eggs",
+        "title": "Procatopus plumosus",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 206,
+        "category": "Killifish Eggs",
+        "title": "Fenerbahce formosus CIR2025 Oyo",
+        "price": "25.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 207,
+        "category": "Killifish Eggs",
+        "title": "Lacustricola aff karangae ZASB25-3",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 208,
+        "category": "Killifish Eggs",
+        "title": "Fund. thierryi Ada GH 06/5 30 eggs",
+        "price": "23.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 209,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius korthausae Mafia Island TAN 02-5",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 210,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius guentheri Zanzibar TAN 97-02",
+        "price": "16.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 211,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius rachovi Beira 98",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 212,
+        "category": "Killifish Eggs",
+        "title": "Nothobranchius rachovi albino",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 213,
+        "category": "Killifish Eggs",
+        "title": "Fundulopanchax sjoestedti Red Dwarf",
+        "price": "18.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 214,
+        "category": "Killifish Eggs",
+        "title": "Cynopoecilus melanotaenia Cebollati",
+        "price": "28.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 215,
+        "category": "Killifish Eggs",
+        "title": "Fundulopanchax cinnamomeus Kurume ADL 13-35",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 216,
+        "category": "Domesticated Livebearers",
+        "title": "Full Blue NEON Platy",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 217,
+        "category": "Domesticated Livebearers",
+        "title": "Blue Wag Platies",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 218,
+        "category": "Domesticated Livebearers",
+        "title": "Fireball Platies",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 219,
+        "category": "Domesticated Livebearers",
+        "title": "Bleeding Heart Platies",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 220,
+        "category": "Domesticated Livebearers",
+        "title": "Lyetail Japan Blue Guppies",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 221,
+        "category": "Domesticated Livebearers",
+        "title": "Pair Yellow Tiger Endler",
+        "price": "15.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 222,
+        "category": "Domesticated Livebearers",
+        "title": "Vealtail red humberg pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 223,
+        "category": "Domesticated Livebearers",
+        "title": "Yellow banana variatus pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 224,
+        "category": "Domesticated Livebearers",
+        "title": "Blood red vealtail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 225,
+        "category": "Domesticated Livebearers",
+        "title": "Molly Sunkist rountail salfin pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 226,
+        "category": "Domesticated Livebearers",
+        "title": "Blood red lyretail double swordtail tail",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 227,
+        "category": "Domesticated Livebearers",
+        "title": "Molly black hole pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 228,
+        "category": "Domesticated Livebearers",
+        "title": "Molly blue elektrik pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 229,
+        "category": "Domesticated Livebearers",
+        "title": "Blood red cauliflower sabertail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 230,
+        "category": "Domesticated Livebearers",
+        "title": "Ref Micky mouse pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 231,
+        "category": "Domesticated Livebearers",
+        "title": "Molly white snow blue eyes pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 232,
+        "category": "Domesticated Livebearers",
+        "title": "Red humberg lyretail double swordtail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 233,
+        "category": "Domesticated Livebearers",
+        "title": "Blood red fayerkreker swordtail pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 234,
+        "category": "Domesticated Livebearers",
+        "title": "Mickey mouse pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 235,
+        "category": "Domesticated Livebearers",
+        "title": "Black molly pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 236,
+        "category": "Domesticated Livebearers",
+        "title": "Variatus sunrise hifin pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 237,
+        "category": "Domesticated Livebearers",
+        "title": "Cendrawasih variatus pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 238,
+        "category": "Domesticated Livebearers",
+        "title": "Metal snake skin yellow dragon pair",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 239,
+        "category": "Wild Livebearers",
+        "title": "X. alvarezi",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 240,
+        "category": "Wild Livebearers",
+        "title": "X. alvarezi gold",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 241,
+        "category": "Wild Livebearers",
+        "title": "X. maculatus Papalaopan",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 242,
+        "category": "Wild Livebearers",
+        "title": "X. variatus huextetitla",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 243,
+        "category": "Wild Livebearers",
+        "title": "X. maculatus Evelynae",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 244,
+        "category": "Wild Livebearers",
+        "title": "X. maculatus Tabasco Blue",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 245,
+        "category": "Wild Livebearers",
+        "title": "X. variatus Zarco",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 246,
+        "category": "Wild Livebearers",
+        "title": "X. clemenciae",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 247,
+        "category": "Wild Livebearers",
+        "title": "X. birchmanni Orizatlan",
+        "price": "35.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 248,
+        "category": "Wild Livebearers",
+        "title": "X. montezumae Capuchin",
+        "price": "40.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 249,
+        "category": "Wild Livebearers",
+        "title": "Red Picta",
+        "price": "30.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 250,
+        "category": "Wild Livebearers",
+        "title": "Blue Star Endler",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 251,
+        "category": "Wild Livebearers",
+        "title": "Red Spotted Endler",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 252,
+        "category": "Mixed Lots",
+        "title": "Monster Fish Mixed Box",
+        "price": "50.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 253,
+        "category": "Mixed Lots",
+        "title": "Mystery Box",
+        "price": "20.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 254,
+        "category": "Rainbowfish",
+        "title": "Ten Sunset Rainbowfish 99 free shipping",
+        "price": "95.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 255,
+        "category": "Rainbowfish",
+        "title": "8 juvenile Melanotaenia ajamaruensis",
+        "price": "160.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 256,
+        "category": "Rainbowfish",
+        "title": "Rainbows",
+        "price": "17.99",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 257,
+        "category": "Aquarium Snails",
+        "title": "30+ Pond/Bladder Snails",
+        "price": "10.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 258,
+        "category": "Aquarium Snails",
+        "title": "Yellow Rabbit Snails Juvi x5",
+        "price": "40.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 259,
+        "category": "Aquarium Snails",
+        "title": "*** Rare Blond Adult Assassin Snails ***",
+        "price": "45.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 260,
+        "category": "US Native Fish",
+        "title": "Rainbow Shiner",
+        "price": "10.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    },
+    {
+        "id": 261,
+        "category": "Aquarium Moss",
+        "title": "Maibarae moss golf ball portion",
+        "price": "15.00",
+        "seconds_remaining": 3600,
+        "scraped_at": 1773501435.20874
+    }
+]

@@ -1,9 +1,11 @@
 from playwright.sync_api import sync_playwright
 import json
 import time
+import os
 
 def run_scraper():
     with sync_playwright() as p:
+        current_dir = os.path.dirname(os.path.abspath(__file__))
         # Setup
         browser = p.chromium.launch(headless=False,)
         context = browser.new_context()
@@ -87,11 +89,15 @@ def run_scraper():
                         "scraped_at": scrape_timestamp
                     })
                     
+        output_path = os.path.join(current_dir, "..", "frontend", "public", "fish_data.json")
         # Save finalized data as JSON and export for Three.js frontend
-        with open("fish_data.json", "w") as f:
-            json.dump(fish_data, f, indent=4)
-        
-        print(f"Success! Captured {len(fish_data)} fully-profiled auctions.")
+        try:
+            with open(output_path, "w") as f:
+                json.dump(fish_data, f, indent=4)
+            print(f"Sucess! Captured {len(fish_data)} auctions.")
+            print(f"Data synced to: {output_path}")
+        except FileNotFoundError:
+            print(f"Error: The path {output_path} doesn't exist. Check folder name")
         browser.close()
         
 if __name__ == "__main__":
